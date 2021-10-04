@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshansh177
+- 👋 Hi, I’m Akshansh Mathur
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning cybersecurity and cloud computing
 - 💞️ I’m looking to pursue on any opportunity i recieve
